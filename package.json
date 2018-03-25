@@ -1,0 +1,23 @@
+{
+  "name": "particles",
+  "version": "1.0.0",
+  "description": "particles.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karabayse/particles.git"
+  },
+  "keywords": [
+    "particles"
+  ],
+  "author": "Kara Bayse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karabayse/particles/issues"
+  },
+  "homepage": "https://github.com/karabayse/particles#readme"
+}
